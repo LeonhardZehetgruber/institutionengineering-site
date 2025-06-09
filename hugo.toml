@@ -1,0 +1,17 @@
+baseURL = "https://LeonhardZehetgruber.github.io/institutionengineering-site/"
+languageCode = "en-us"
+title = "Institution Engineering"
+theme = "PaperMod"
+
+[params]
+  ShowBreadCrumbs = true
+
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
