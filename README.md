@@ -27,6 +27,7 @@ hugo version
 
 ```bash
 git clone git@github.com:LeonhardZehetgruber/institutionengineering-site.git
+cd institutionengineering-site
 git submodule update --init --recursive
 ```
 
@@ -40,4 +41,4 @@ Start the Hugo development server:
 hugo serve
 ```
 
-Now, the website is hosted locally on [localhost](http://localhost:1313/).
+Now, the website is hosted on [localhost](http://localhost:1313/), hot reloading any changes made.
