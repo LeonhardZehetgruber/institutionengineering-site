@@ -4,14 +4,24 @@ title = "Institution Engineering"
 theme = "PaperMod"
 
 [params]
-  ShowBreadCrumbs = true
+  env = "production"
+  ShowSearch = true
+  ShowPostList = true
+  ShowPostNavLinks = true
 
 [[menu.main]]
   identifier = "home"
   name = "Home"
   url = "/"
   weight = 1
+[[menu.main]]
+  name = "Search"
+  url = "/search/"
+  weight = 2
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
