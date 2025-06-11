@@ -7,4 +7,4 @@ description: "Institution Engineering"
 
 This website serves as a collection of thoughts and resources about the design of institutions.
 
-The page will be filled soon.
+The page will be filled sooner or later.
