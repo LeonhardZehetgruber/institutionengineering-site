@@ -32,7 +32,7 @@ This is not a contradiction—it's a fulfillment of Mill's vision. Liberty inclu
 
 ### Institutional Responsibility and the Paradox of Liberty
 
-A critical insight that follows from Mill’s work is what’s sometimes called the **paradox of liberty**: the freedom to give up freedom must be limited. People might choose to become dependent, submissive, or even enslaved—voluntarily. But a democratic society must protect against this. The state should ensure that **no one can take liberty away from another**, even with consent.
+A critical insight is what’s sometimes called the **paradox of liberty**: the freedom to give up freedom must be limited. People might choose to become dependent, submissive, or even enslaved—voluntarily. But a democratic society must protect against this. The state should ensure that **no one can take liberty away from another**, even with consent.
 
 This also means supporting people in difficult circumstances. If someone becomes impoverished or excluded, the state should help them regain their autonomy—not only out of compassion, but as a way to **uphold liberty itself**. Freedom is not just the absence of restraint; it’s also about **real, available opportunities**.
 
