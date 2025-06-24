@@ -10,8 +10,6 @@ tocOpen = true
 +++
 
 
-## Liberty
-
 Liberty is a foundational value in democratic societies. But what does it truly mean, and how should it be protected in a complex, interconnected world?
 
 In *On Liberty*, **John Stuart Mill** offers a compelling defense of individual freedom. For Mill, liberty is essential because it enables **learning, growth, and progress**. He argues that our beliefs, behaviors, and ideas should be constantly tested against alternatives. Without the freedom to think differently, speak freely, and live according to one's own values, we lose the ability to refine our understanding of truth—and with it, the capacity to improve as individuals and as a society.

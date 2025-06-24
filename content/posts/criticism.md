@@ -10,8 +10,6 @@ tocOpen = true
 +++
 
 
-## Criticism for Instituion Engineering
-
 Among the many principles that shape both personal development and the evolution of societies, **criticism** plays a particularly valuable role. It is a powerful tool for learning—not just in academic research or science, but in everyday life and in the design of social institutions. This post explores why embracing criticism is important, how it can be beneficial rather than harmful, and what institutional arrangements can help make space for it.
 
 ### Criticism and Learning
