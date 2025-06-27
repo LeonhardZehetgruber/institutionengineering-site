@@ -3,8 +3,8 @@ draft = false
 title = "Principles for a Constitution"
 date = 2025-06-12T07:44:50+02:00
 author = "Fabian Zehetgruber"
-tags = \["democracy", "constitution", "freedom", "liberty", "philosophy"]
-categories = \["Politics", "Philosophy"]
+tags = ["democracy", "constitution", "freedom", "liberty", "philosophy"]
+categories = ["Test"]
 showToc = true
 tocOpen = true
 +++
