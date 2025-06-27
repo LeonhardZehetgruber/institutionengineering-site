@@ -1,6 +1,6 @@
 +++
 draft = false
-title = 'Principles for a Constituion'
+title = 'Principles for a Constitution'
 date = 2025-06-27T07:44:50+02:00
 author = "Fabian Zehetgruber"
 tags = ["test", "article"]
