@@ -9,8 +9,6 @@ showToc = true
 tocOpen = true
 +++
 
-## Principles for a Constitution
-
 In many democratic and wealthy countries, *democracy* is widely valued. Yet, what exactly is meant by democracy is not always clear. Is it simply the rule of the majority? Or is it something more nuanced?
 
 At the Munich Security Conference in 2025, the U.S. Vice President criticized parts of Europe for what he considered a “lack of democracy,” pointing to cases like alleged election manipulation in Romania or the legal and institutional challenges faced by right-wing parties such as the AfD in Germany. His remarks seemed to imply a majoritarian understanding of democracy—that democratic legitimacy comes primarily from aligning with the will of the majority.
